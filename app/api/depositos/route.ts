@@ -1,6 +1,3 @@
-Exit code: 0
-Wall time: 2.1 seconds
-Output:
 import { mutateBlobState, readBlobState } from "../../lib/blob-store";
 import { PILLARS } from "../../lib/model";
 import type { DepositDefinition, Reflection, WeeklyReview } from "../../lib/model";
